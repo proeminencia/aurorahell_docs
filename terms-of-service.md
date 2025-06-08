@@ -1,5 +1,5 @@
 # AuroraHell – Terms of Service
-**Last updated:** 07/06/2025
+**Last updated:** 08/06/2025
 
 By using the AuroraHell Discord bot (the “Bot”), you agree to the following terms:
 
@@ -9,8 +9,12 @@ By using the AuroraHell Discord bot (the “Bot”), you agree to the following 
 - You must not attempt to exploit, abuse, or modify the Bot in any unauthorized way.
 
 ## 2. Data Collection
-- The Bot may store your Discord user ID, username, and usage data.
-- This is used for moderation and functionality purposes, including preventing abuse.
+The bot may store the following data:
+- Your Discord user ID and username  
+- Server ID and server name (where the Bot is used)  
+- Usage data related to commands and interactions with the Bot  
+
+This information is used for moderation and functionality purposes, including preventing abuse.
 
 ## 3. Restrictions
 - The developer reserves the right to block access to users at any time.
