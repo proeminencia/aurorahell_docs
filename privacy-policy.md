@@ -1,12 +1,12 @@
 # AuroraHell – Privacy Policy
-**Last updated:** 07/06/2025
+**Last updated:** 08/06/2025
 
 This policy explains how the AuroraHell bot (“the Bot”) handles user data.
 
 ## 1. What Data We Collect
 - Discord User IDs  
 - Usernames and Nicknames  
-- Server IDs  
+- Server IDs and Names  
 - Command usage data
 
 ## 2. What We Don’t Collect
