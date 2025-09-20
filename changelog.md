@@ -4,6 +4,12 @@
 
 This is the changelog of the Discord bot AuroraHell.
 
+## Date 20/09/2025 - Version 2.1.1 changes:
+
+- Removed the entire database/history player tracking system because it was disrupting the game’s server. Since it required too many requests, it was affecting network traffic and causing issues with loading website pages and in-game connections.
+
+**Contact:** Discord @proeminencia
+
 ## Date 15/07/2025 - Version 2.1.0 changes:
 
 - Changed the icon and banner of the Discord bot
